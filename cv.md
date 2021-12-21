@@ -6,6 +6,8 @@ email: *k.mackormic@mail.com*
 tel: *+375 29 3878456*
 
 github: *mackormic*
+
+discord-name: *MikitaFiasko(@mackormic)*
 ## About myself
     I was born in Petropavlovsk-Kamchatsky-50 (Russia).Now i'm living in Minsk. i'm a lawyer. 
 ## Education
@@ -22,5 +24,11 @@ github: *mackormic*
 * spanish
 * belorussian 
 * russian
+## Code
+```
+function multiply(a, b){
+  a * b
+}
+```
 ---
 > Belarus style
