@@ -1,6 +1,15 @@
 @font-face {
-    font-family: Roboto;
+    font-family: 'Roboto';
     src: url("assets/fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'IslandMoments-Regular';
+    src: url("assets/fonts/IslandMoments-Regular.ttf");
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
@@ -21,6 +30,26 @@ body {
     border: 1px solid red;
 }
 
+.nav-list {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+    font-style: italic;
+    transition: 0.5s;
+}
+.nav-link:hover {
+    color: brown;
+}
+
 .main {
     border: 1px solid red;
 }
@@ -32,4 +61,5 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
-}
+    }
+
