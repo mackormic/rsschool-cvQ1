@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url("assets/fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'IslandMoments-Regular';
+    src: url("assets/fonts/IslandMoments-Regular.ttf");
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto' , sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    border: 1px solid red;
+}
+
+.nav-list {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: #829985;
+    font-size: 150%;
+    font-style: italic;
+    transition: 0.5s;
+}
+.nav-link:hover {
+    color: #5d7260;
+}
+
+.main {
+    border: 1px solid red;
+    flex-grow: 1;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+.footer {
+    border: 1px solid red;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    }
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+} 
+
+.section{
+    width: 50%;
+}
+@media (max-width: 768px) {
+    .section{
+        width: 100%;
+    }
+}
+
+.section-title{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+}
+li , p , code {
+    font-size: 50%;
+}
