@@ -64,6 +64,8 @@ list-style: none;
 
 .footer {
     border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
 }
 
 .container {
@@ -91,6 +93,15 @@ list-style: none;
     letter-spacing: 5px;
     color: #829985;
 }
-li , p , code {
-    font-size: 50%;
+li , p {
+    font-size: 70%;
+    color: #5d7260;
+    text-transform: none;
+    letter-spacing: 0px;
+    }
+#profile {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
 }
+
