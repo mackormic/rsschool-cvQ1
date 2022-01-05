@@ -93,7 +93,7 @@ list-style: none;
     letter-spacing: 5px;
     color: #829985;
 }
-li , p {
+li , p , pre {
     font-size: 70%;
     color: #5d7260;
     text-transform: none;
