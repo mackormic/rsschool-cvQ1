@@ -1,4 +1,4 @@
-s# __Mikita Fiasko__
+# __Mikita Fiasko__
 ---
 ## My contacts
 email: *k.mackormic@mail.com*
@@ -9,10 +9,10 @@ github: [*mackormic*](https://github.com/mackormic)
 
 discord-name: *MikitaFiasko(@mackormic)*
 ## About myself
- I was born in Petropavlovsk-Kamchatsky-50.
- Now i'm living in Minsk. i'm a lawyer. 
- No war!
- Support Ukraine
+ I was born in Petropavlovsk-Kamchatsky-50.  
+  Now i'm living in Minsk. i'm a lawyer.  
+  No war!  
+  Support Ukraine
 
 ## Education
 * [BSU](https://bsu.by/)
@@ -20,7 +20,7 @@ discord-name: *MikitaFiasko(@mackormic)*
 
 ## Hobby
 * sports
-    * floorball 
+    * floorball  
     ![floorball](floorball.jpg)
     * football
     * tennis
