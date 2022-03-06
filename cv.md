@@ -21,7 +21,7 @@ discord-name: *MikitaFiasko(@mackormic)*
 ## Hobby
 * sports
     * floorball  
-    ![floorball](floorball.jpg)
+    ![floorball](fl.jpg)
     * football
     * tennis
     * snowbord
@@ -31,12 +31,14 @@ discord-name: *MikitaFiasko(@mackormic)*
 * spanish
 * belorussian 
 * russian
+
 ## Code
 ```
 function multiply(a, b){
   a * b
 }
 ```
+
 ## English
 * *INTERMEDIATE*
 ---
