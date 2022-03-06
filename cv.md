@@ -5,21 +5,26 @@ email: *k.mackormic@mail.com*
 
 tel: *+375 29 3878456*
 
-github: *mackormic*
+github: [*mackormic*](https://github.com/mackormic)
 
 discord-name: *MikitaFiasko(@mackormic)*
 ## About myself
- I was born in Petropavlovsk-Kamchatsky-50 (Russia).Now i'm living in Minsk. i'm a lawyer. 
+ I was born in Petropavlovsk-Kamchatsky-50.
+ Now i'm living in Minsk. i'm a lawyer. 
+ No war!
 
 ## Education
 * [BSU](https://bsu.by/)
 * [Lund University](https://www.lunduniversity.lu.se/)
+
 ## Hobby
 * sports
-    * floorball ![floorball](floorball.jpg)
+    * floorball 
+    ![floorball](floorball.jpg)
     * football
     * tennis
     * snowbord
+
 ## Languages
 * english
 * spanish
@@ -31,5 +36,7 @@ function multiply(a, b){
   a * b
 }
 ```
+## English
+* *INTERMEDIATE*
 ---
 > Belarus style
