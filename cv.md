@@ -12,6 +12,7 @@ discord-name: *MikitaFiasko(@mackormic)*
  I was born in Petropavlovsk-Kamchatsky-50.
  Now i'm living in Minsk. i'm a lawyer. 
  No war!
+ Support Ukraine
 
 ## Education
 * [BSU](https://bsu.by/)
