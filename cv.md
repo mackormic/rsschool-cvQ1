@@ -22,9 +22,12 @@ discord-name: *MikitaFiasko(@mackormic)*
 * sports
     * floorball  
     ![floorball](fl.jpg)
-    * football
+    * football  
+    ![football](f1.jpg)
     * tennis
     * snowbord
+* Model United Nations  
+![Model United Nations](mun.jpg)
 
 ## Languages
 * english
