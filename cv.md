@@ -27,7 +27,7 @@ discord-name: *MikitaFiasko(@mackormic)*
     * tennis
     * snowbord
 * Model United Nations  
-![Model United Nations](mun.jpg)
+    ![Model United Nations](mun.jpg)
 
 ## Languages
 * english
@@ -39,7 +39,7 @@ discord-name: *MikitaFiasko(@mackormic)*
 ```
 const array = 
    [1, 5, 3]
-   
+
   array.sort(function (a, b) {
   return a - b;
 });
