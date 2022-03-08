@@ -38,6 +38,7 @@ a{
 .header {
    /* border: 1px solid red;*/
     z-index: 5;
+    background-color: #bdae82;
     
 }
 
@@ -57,8 +58,21 @@ list-style: none;
     font-style: italic;
     transition: 0.5s;
 }
+
+.nav-link-header {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+    font-style: italic;
+    transition: 0.5s;;
+}
 .nav-link:hover {
     color: #bdae82;
+}
+.nav-link-header:hover {
+    color: #829985;
 }
 
 .main {
@@ -150,8 +164,14 @@ li , p , pre {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    padding: 0 30px;
-}
+    padding: 30px;
+    font-style: italic;
+    font-weight: bold;
+    }
+
+    .li-profile {
+        color:#bdae82;
+    }
 
 #floorball {
     display: flex;
